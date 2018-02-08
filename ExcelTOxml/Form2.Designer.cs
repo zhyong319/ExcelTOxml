@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.SuspendLayout();
             // 
             // Form2
@@ -37,10 +38,11 @@
             this.BackgroundImage = global::ExcelTOxml.Properties.Resources.nnn;
             this.ClientSize = new System.Drawing.Size(457, 225);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form2";
+            this.Text = "帮助说明...";
             this.ResumeLayout(false);
 
         }

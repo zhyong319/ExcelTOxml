@@ -8,3 +8,13 @@ D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.csproj.GenerateRe
 D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.csproj.CoreCompileInputs.cache
 D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.exe
 D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.pdb
+D:\win32Git\ExcelTOxml\ExcelTOxml\bin\Release\ExcelTOxml.exe.config
+D:\win32Git\ExcelTOxml\ExcelTOxml\bin\Release\ExcelTOxml.exe
+D:\win32Git\ExcelTOxml\ExcelTOxml\bin\Release\ExcelTOxml.pdb
+D:\win32Git\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.Form1.resources
+D:\win32Git\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.Form2.resources
+D:\win32Git\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.Properties.Resources.resources
+D:\win32Git\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.csproj.GenerateResource.Cache
+D:\win32Git\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.csproj.CoreCompileInputs.cache
+D:\win32Git\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.exe
+D:\win32Git\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.pdb
