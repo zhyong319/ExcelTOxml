@@ -1,0 +1,10 @@
+D:\VS_Application\ExcelTOxml\ExcelTOxml\bin\Release\ExcelTOxml.exe.config
+D:\VS_Application\ExcelTOxml\ExcelTOxml\bin\Release\ExcelTOxml.exe
+D:\VS_Application\ExcelTOxml\ExcelTOxml\bin\Release\ExcelTOxml.pdb
+D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.Form1.resources
+D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.Form2.resources
+D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.Properties.Resources.resources
+D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.csproj.GenerateResource.Cache
+D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.csproj.CoreCompileInputs.cache
+D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.exe
+D:\VS_Application\ExcelTOxml\ExcelTOxml\obj\Release\ExcelTOxml.pdb
